@@ -10,5 +10,7 @@ public class Test {
 
         mu = new Nayeem();
         mu.SendMessage();
+
+        mu.bodrul();
     }
 }
